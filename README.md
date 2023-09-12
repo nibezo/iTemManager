@@ -16,5 +16,8 @@ With iTem Manager, you can efficiently manage your After Effects compositions, m
 
 - **User-Friendly Interface**: The intuitive UI ensures that both beginners and experienced users can benefit from this plugin.
 ## My changes
-I create drop-down menu for layer selection:
-![image](https://github.com/nibezo/iTemManager/assets/52705623/b8652cf0-4657-427d-aa6f-dd02f8693624)
+I create drop-down menu for layer selection and unselection:
+
+![image](https://github.com/nibezo/iTemManager/assets/52705623/da1b2dde-e0eb-41a6-bd19-19aac25afdb4)
+
+You can add your own options to the item list here - (https://github.com/nibezo/iTemManager/commit/6d2130faee4ab583337f9a24cdf3fbf124bf1563#diff-986dfbb7bb1a7845775609773277f683ace644ac241f5d3233c19620037bdc2dR264)
